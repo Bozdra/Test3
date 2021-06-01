@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5205" started-at="2021-06-01T18:55:33Z" finished-at="2021-06-01T18:55:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5205" started-at="2021-06-01T18:55:33Z" finished-at="2021-06-01T18:55:38Z">
+      <class name="test.TestSajta">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:test.TestSajta@1a968a59]" name="createDriver" is-config="true" duration-ms="2382" started-at="2021-06-01T18:55:33Z" finished-at="2021-06-01T18:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="invalidLogin()[pri:1, instance:test.TestSajta@1a968a59]" name="invalidLogin" duration-ms="1436" started-at="2021-06-01T18:55:36Z" finished-at="2021-06-01T18:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="validLogin()[pri:2, instance:test.TestSajta@1a968a59]" name="validLogin" duration-ms="629" started-at="2021-06-01T18:55:37Z" finished-at="2021-06-01T18:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="testSortinga()[pri:3, instance:test.TestSajta@1a968a59]" name="testSortinga" duration-ms="732" started-at="2021-06-01T18:55:38Z" finished-at="2021-06-01T18:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortinga -->
+      </class> <!-- test.TestSajta -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
